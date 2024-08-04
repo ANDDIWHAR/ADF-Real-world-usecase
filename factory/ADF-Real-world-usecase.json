@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Real-world-usecase",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a0dbbb0-ec83-4f4a-b7c9-a505ae199e37",
+		"tenantId": "f5c1d580-4123-45ea-ad4c-d5936d745e2f"
+	}
+}
