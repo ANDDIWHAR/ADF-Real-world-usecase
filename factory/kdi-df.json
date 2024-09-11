@@ -1,0 +1,9 @@
+{
+	"name": "kdi-df",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62ce9908-276e-4b8f-b43e-cd2d0c983bb3",
+		"tenantId": "0a51c91e-75a9-47dc-b515-3ed905d6a778"
+	}
+}
